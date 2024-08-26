@@ -1,0 +1,9 @@
+Algortima adalah urutan langkah - langkah logis untuk menyelesaikan masalah
+Notasi : Pseudocode, Flowchart, Kalimat Deskriptif
+
+Algortima Lebih Baik
+Algoritma yang benar :
+mengukur running time, mengukur penggunaan memori
+
+Yang dibutuhkan
+Ketepatan, Efisiensi : waktu dan kapasitas, 
